@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">冰岩单词</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="review">复习</string>
+    <string name="choose">选词</string>
+    <string name="statistic">统计</string>
+    <string name="setting">设置</string>
+</resources>
